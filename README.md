@@ -121,5 +121,4 @@ O relatório foi construído com base na amostra **Sample Financials** do Power 
 
 ---
 
-## 👩‍💻 Autor
 
